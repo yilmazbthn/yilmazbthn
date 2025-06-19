@@ -12,8 +12,5 @@ Skills: C# / SQL / PHP / HTML / CSS / C++
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yilmazbthn&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/yilmazbthn)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=yilmazbthn)  
 
 
